@@ -15,12 +15,13 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  puts Math.s
+  puts Math.sine(6)
 end
 
 def square_root(num)
-end
+  puts Math.sqrt(9)
+end 
 
 def order_of_operation(num1, num2, num3, num4)
-  #Hint:  __ + (( __ * __ ) / __ )
+  #Hint:  2_ + (( 34_ * _2_ ) / _2_ )
 end
